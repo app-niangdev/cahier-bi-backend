@@ -1,24 +1,21 @@
-# DÉSACTIVÉ : configuration héritée de SN Devis, mise en commentaire lors du passage à Cahier Bi.
-# À réécrire pour le déploiement de Cahier Bi avant de le réactiver.
-#
-# .git
-# .github
-# .env
-# .env.*
-# !.env.example
-# vendor
-# node_modules
-# deploy
-# tests
-# apix
-# .phpunit.result.cache
-# .phpunit.cache
-# bootstrap/cache/*.php
-# storage/logs/*
-# storage/framework/cache/data/*
-# storage/framework/sessions/*
-# storage/framework/views/*
-# storage/app/public/*
-# storage/app/private/*
-# public/storage
-# public/hot
+.git
+.github
+.env
+.env.*
+!.env.example
+vendor
+node_modules
+deploy
+tests
+apix
+.phpunit.result.cache
+.phpunit.cache
+bootstrap/cache/*.php
+storage/logs/*
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/app/public/*
+storage/app/private/*
+public/storage
+public/hot
